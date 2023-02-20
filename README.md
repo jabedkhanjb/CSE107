@@ -1,2 +1,2 @@
 # CSE107
-Structured Programming 
+Structured Programming Language 
